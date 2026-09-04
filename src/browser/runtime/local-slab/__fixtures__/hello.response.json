@@ -14,7 +14,7 @@
       "protocolVersion": 1,
       "browserVersion": "152.0.7977.65",
       "browserPid": 1234,
-      "profiles": [{ "id": "default", "displayName": "Default" }]
+      "profiles": [{ "id": "default", "displayName": "default" }]
     }
   }
 }
